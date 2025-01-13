@@ -8,7 +8,7 @@
         <class>com.mycompany.hibernatejpaproject.Discografia</class>
         
         <properties>
-            <property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://127.0.0.1:3307/hibernate_project"/> <!-- Dades de conexió a la base de dades -->
+            <property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://127.0.0.1:3306/hibernate_project"/> <!-- Dades de conexió a la base de dades -->
             <property name="jakarta.persistence.jdbc.user" value="root"/>    <!-- Usuari per accedir a la bd -->
             <property name="jakarta.persistence.jdbc.password" value=""/>  <!-- Contrasenya de l'usuari per accedir a la bd (no ne tinc) -->
             <property name="jakarta.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/> <!-- Driver JDBC per connectar amb MySQL -->
