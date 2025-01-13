@@ -1,0 +1,5 @@
+com\mycompany\hibernatejpaproject\HibernateJPAProject.class
+com\mycompany\hibernatejpaproject\Artista.class
+com\mycompany\hibernatejpaproject\Discografia.class
+com\mycompany\hibernatejpaproject\DiscografiaCRUD.class
+com\mycompany\hibernatejpaproject\ArtistaCRUD.class
